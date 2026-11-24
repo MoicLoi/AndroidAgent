@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app_name 由 flavor 的 resValue 提供（base / pro 不同） -->
+    <string name="a11y_desc">用于开发者调试与自动化测试。检测到禁用目标时会立即停止并退出。</string>
+</resources>

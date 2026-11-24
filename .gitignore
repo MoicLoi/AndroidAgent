@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+.kotlin/
+local.properties
+
+# 构建日志
+*.log
+
+# 演示签名：绝不入库
+.demo/
+*.keystore
+*.jks
+*.keystore.bak
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# 发布产物：作为 GitHub Release 附件上传，不提交进 git
+dist/
